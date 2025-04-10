@@ -13,11 +13,7 @@ PlayBackend es una plataforma completa de servicios backend para desarrolladores
 - **Sistema de Clasificación**: Clasificación de jugadores por niveles (bronce, plata, oro, etc.)
 - **Interfaz Moderna**: Panel de administración responsivo con Material-UI
 - **API RESTful**: Backend con Node.js, Express y MongoDB
-- **Documentación API**: Documentación completa con Swagger/OpenAPI
-- **Sistema de Pagos**: Integración con pasarelas de pago para micropagos y suscripciones
-- **Analíticas**: Dashboard con métricas y estadísticas de uso
-- **Notificaciones Push**: Envío de notificaciones a dispositivos móviles
-- **Multiplataforma**: Compatible con juegos web, móviles y de escritorio
+
 
 ## Módulos Adicionales (En Desarrollo)
 
@@ -33,6 +29,11 @@ PlayBackend es una plataforma completa de servicios backend para desarrolladores
 - **Localización**: Soporte para múltiples idiomas y regiones
 - **Sistema de Recompensas**: Programas de fidelización y recompensas diarias
 - **Integración con Steam/Epic/Consolas**: Conexión con plataformas de distribución
+- **Documentación API**: Documentación completa con Swagger/OpenAPI
+- **Sistema de Pagos**: Integración con pasarelas de pago para micropagos y suscripciones
+- **Analíticas**: Dashboard con métricas y estadísticas de uso
+- **Notificaciones Push**: Envío de notificaciones a dispositivos móviles
+- **Multiplataforma**: Compatible con juegos web, móviles y de escritorio
 
 ## Estructura del Proyecto
 
