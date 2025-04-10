@@ -1,8 +1,8 @@
-# GameService - Plataforma de Servicios Backend para Desarrolladores de Videojuegos
+# PlayBackend - Plataforma de Servicios Backend para Desarrolladores de Videojuegos
 
 ## Descripción
 
-GameService es una plataforma completa de servicios backend para desarrolladores de videojuegos. Proporciona una API robusta y escalable que permite a los desarrolladores implementar rápidamente funcionalidades esenciales en sus juegos sin preocuparse por la infraestructura del servidor. Con una interfaz de administración moderna, los desarrolladores pueden gestionar jugadores, logros, clasificaciones y más.
+PlayBackend es una plataforma completa de servicios backend para desarrolladores de videojuegos. Proporciona una API robusta y escalable que permite a los desarrolladores implementar rápidamente funcionalidades esenciales en sus juegos sin preocuparse por la infraestructura del servidor. Con una interfaz de administración moderna, los desarrolladores pueden gestionar jugadores, logros, clasificaciones y más.
 
 ## Características Principales
 
