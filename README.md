@@ -263,13 +263,6 @@ async function unlockAchievement(playerId, achievementId) {
 - **Analíticas**: Google Analytics, Mixpanel
 - **CI/CD**: GitHub Actions, Docker, Kubernetes
 
-## Planes y Precios
-
-- **Gratuito**: Hasta 1,000 jugadores activos, funcionalidades básicas
-- **Estándar**: Hasta 10,000 jugadores activos, todas las funcionalidades
-- **Profesional**: Hasta 100,000 jugadores activos, soporte prioritario
-- **Empresarial**: Jugadores ilimitados, SLA garantizado, soporte dedicado
-
 ## Contribución
 
 1. Haz un fork del proyecto
