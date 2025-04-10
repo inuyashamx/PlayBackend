@@ -281,10 +281,3 @@ async function unlockAchievement(playerId, achievementId) {
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-
-## Contacto
-
-- **Email**: soporte@gameservice.com
-- **Sitio Web**: https://www.gameservice.com
-- **Twitter**: @GameService
-- **Discord**: [Servidor de Discord](https://discord.gg/gameservice) 
